@@ -12,6 +12,9 @@ include vendor/xiaomi/diting/BoardConfigVendor.mk
 
 DEVICE_PATH := device/xiaomi/diting
 
+# Audio
+AUDIO_FEATURE_ENABLED_CIRRUS_CALIBRATION_RESISTANCE := true
+
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/properties/odm.prop
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/properties/system.prop
