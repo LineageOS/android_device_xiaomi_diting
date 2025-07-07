@@ -514,6 +514,7 @@ vendor/etc/camera/xiaomi/thirdpartysnapshot.json
 vendor/etc/camera/xiaomiSceneDetection.xml
 vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc
 vendor/etc/vintf/manifest/vendor.xiaomi.hardware.quickcamera@1.0-service.xml
+vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/components/com.bots.node.vendortagwrite.so
 vendor/lib64/camera/components/com.mi.node.AIIE.so
 vendor/lib64/camera/components/com.mi.node.aiasd.so
@@ -906,7 +907,6 @@ vendor/lib64/camera/com.qti.sensormodule.diting_ofilm_gc02m1_macro.bin
 vendor/lib64/camera/com.qti.sensormodule.diting_semco_s5khp1_wide.bin
 vendor/lib64/camera/com.qti.sensormodule.diting_sunny_imx596_front.bin
 vendor/lib64/camera/com.qti.sensormodule.diting_sunny_s5k4h7_ultra.bin
-vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/com.qti.tuned.diting_ofilm_gc02m1_macro.bin
 vendor/lib64/camera/com.qti.tuned.diting_semco_s5khp1_wide.bin
 vendor/lib64/camera/com.qti.tuned.diting_sunny_imx596_front.bin
