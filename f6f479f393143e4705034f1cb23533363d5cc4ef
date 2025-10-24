@@ -22,6 +22,30 @@
       },
       "revId": "f6f479f393143e4705034f1cb23533363d5cc4ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8fe53da0_09e74ac8",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 919,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-24T14:55:29Z",
+      "side": 1,
+      "message": "yes the comment change here is wrong",
+      "parentUuid": "01e35096_5e5c3dc2",
+      "range": {
+        "startLine": 919,
+        "startChar": 69,
+        "endLine": 919,
+        "endChar": 110
+      },
+      "revId": "f6f479f393143e4705034f1cb23533363d5cc4ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
