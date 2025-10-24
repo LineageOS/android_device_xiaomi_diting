@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01e35096_5e5c3dc2",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 919,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-24T14:51:33Z",
+      "side": 1,
+      "message": "I think it\u0027s unpinned if switch to the latest global blobs.",
+      "range": {
+        "startLine": 919,
+        "startChar": 69,
+        "endLine": 919,
+        "endChar": 110
+      },
+      "revId": "f6f479f393143e4705034f1cb23533363d5cc4ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
