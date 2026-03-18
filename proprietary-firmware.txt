@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from diting OS3.0.1.0.VLFMIXM
+## are from diting OS3.0.3.0.VLFMIXM
 
 abl.img;AB
 aop.img;AB

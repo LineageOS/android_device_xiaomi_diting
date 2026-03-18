@@ -5,7 +5,7 @@
 #
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2026-01-01
+VENDOR_SECURITY_PATCH := 2026-02-01
 
 # Inherit from xiaomi sm8450-common
 include device/xiaomi/sm8450-common/BoardConfigCommon.mk
