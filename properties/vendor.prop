@@ -5,8 +5,5 @@ persist.vendor.sys.fp.expolevel=0x88
 persist.vendor.sys.fp.fod.location.X_Y=496,2330
 persist.vendor.sys.fp.fod.size.width_height=228,228
 
-# Sensors
-ro.vendor.sensors.xiaomi.udfps=true
-
 # System properties
 ro.product.property_source_order=odm,vendor,product,system_ext,system
